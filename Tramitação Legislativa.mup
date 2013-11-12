@@ -1,0 +1,366 @@
+{
+  "title": "Tramitação Legislativa",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Protocolo",
+      "id": "4.gd4461474d235ced07",
+      "ideas": {
+        "1": {
+          "title": "Leitura no Plenário",
+          "id": "6.gd4461474d235ced07",
+          "ideas": {
+            "1": {
+              "title": "Determina Comissões",
+              "id": "8.gd4461474d235ced07",
+              "ideas": {
+                "1": {
+                  "title": "Análise de Admissibilidade",
+                  "id": "10.gd4461474d235ced07",
+                  "ideas": {
+                    "1": {
+                      "title": "Sim",
+                      "id": "11.gd4461474d235ced07",
+                      "ideas": {
+                        "1": {
+                          "title": "Comissões de Mérito",
+                          "id": "18.gd4461474d235ced07",
+                          "ideas": {
+                            "1": {
+                              "title": "Colégio de Lideres",
+                              "id": "22.gd4461474d235ced07",
+                              "ideas": {
+                                "1": {
+                                  "title": "1a Discussão",
+                                  "id": "23.gd4461474d235ced07",
+                                  "ideas": {
+                                    "1": {
+                                      "title": "1a Votação",
+                                      "id": "25.gd4461474d235ced07",
+                                      "ideas": {
+                                        "1": {
+                                          "title": "Sim",
+                                          "id": "26.gd4461474d235ced07",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "2a Discussão",
+                                              "id": "28.gd4461474d235ced07",
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "2a Votação",
+                                                  "id": "29.gd4461474d235ced07",
+                                                  "ideas": {
+                                                    "1": {
+                                                      "title": "Sim",
+                                                      "id": "30.gd4461474d235ced07",
+                                                      "ideas": {
+                                                        "1": {
+                                                          "title": "Redação Final",
+                                                          "id": "63.gd4461474d235ced07",
+                                                          "ideas": {
+                                                            "1": {
+                                                              "title": "Sanção do Prefeito",
+                                                              "id": "33.gd4461474d235ced07",
+                                                              "ideas": {
+                                                                "1": {
+                                                                  "title": "Sim",
+                                                                  "id": "34.gd4461474d235ced07",
+                                                                  "ideas": {
+                                                                    "2": {
+                                                                      "title": "Diário Oficial",
+                                                                      "id": "47.gd4461474d235ced07",
+                                                                      "ideas": {
+                                                                        "1": {
+                                                                          "title": "Lei",
+                                                                          "id": "38.gd4461474d235ced07",
+                                                                          "attr": {
+                                                                            "style": {
+                                                                              "background": "#99cc00"
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      },
+                                                                      "attr": {
+                                                                        "attachment": {
+                                                                          "contentType": "text/html",
+                                                                          "content": "<div>Art. 370 - Serão promulgados e enviados à publicação, dentro do prazo</div><div>máximo e improrrogável de 10 (dez) dias, contados da data de sua aprovação em</div><div>Plenário, ressalvadas as exceções regimentais:</div><div>I - pela Mesa, as Emendas à Lei Orgânica, com os respectivos números de</div><div>ordem;</div><div>II - pelo Presidente, os Decretos Legislativos e as Resoluções.</div><div><div>Art. 371 - Os originais de Emendas à Lei Orgânica, de Leis, de Decretos</div><div>Legislativos e de Resoluções serão registrados em livros próprios, rubricados pelo</div><div>Presidente da Câmara e arquivados na Secretaria da Câmara, enviando-se ao</div><div>Prefeito, para os fins legais, cópia autêntica dos autógrafos e, quando for o caso,</div><div>dos Decretos Legislativos devidamente assinados pelo Presidente.</div></div>"
+                                                                        },
+                                                                        "style": {
+                                                                          "background": "#E0E0E0"
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                },
+                                                                "2": {
+                                                                  "title": "Não",
+                                                                  "id": "36.gd4461474d235ced07",
+                                                                  "ideas": {
+                                                                    "2": {
+                                                                      "title": "Derrubar o Veto?",
+                                                                      "id": "41.gd4461474d235ced07",
+                                                                      "ideas": {
+                                                                        "1": {
+                                                                          "title": "Não",
+                                                                          "id": "44.gd4461474d235ced07",
+                                                                          "ideas": {
+                                                                            "1": {
+                                                                              "title": "Arquivar",
+                                                                              "id": "46.gd4461474d235ced07",
+                                                                              "attr": {
+                                                                                "style": {
+                                                                                  "background": "#ff0000"
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        },
+                                                                        "2": {
+                                                                          "title": "Sim",
+                                                                          "id": "45.gd4461474d235ced07",
+                                                                          "ideas": {
+                                                                            "1": {
+                                                                              "title": "Diário Oficial",
+                                                                              "id": "49.gd4461474d235ced07",
+                                                                              "ideas": {
+                                                                                "1": {
+                                                                                  "title": "Lei",
+                                                                                  "id": "50.gd4461474d235ced07",
+                                                                                  "attr": {
+                                                                                    "style": {
+                                                                                      "background": "#99cc00"
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              },
+                                                                              "attr": {
+                                                                                "attachment": {
+                                                                                  "contentType": "text/html",
+                                                                                  "content": "<div>Art. 370 - Serão promulgados e enviados à publicação, dentro do prazo</div><div>máximo e improrrogável de 10 (dez) dias, contados da data de sua aprovação em</div><div>Plenário, ressalvadas as exceções regimentais:</div><div>I - pela Mesa, as Emendas à Lei Orgânica, com os respectivos números de</div><div>ordem;</div><div>II - pelo Presidente, os Decretos Legislativos e as Resoluções.</div><div><div>Art. 371 - Os originais de Emendas à Lei Orgânica, de Leis, de Decretos</div><div>Legislativos e de Resoluções serão registrados em livros próprios, rubricados pelo</div><div>Presidente da Câmara e arquivados na Secretaria da Câmara, enviando-se ao</div><div>Prefeito, para os fins legais, cópia autêntica dos autógrafos e, quando for o caso,</div><div>dos Decretos Legislativos devidamente assinados pelo Presidente.</div></div>"
+                                                                                },
+                                                                                "style": {
+                                                                                  "background": "#E0E0E0"
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      },
+                                                                      "attr": {
+                                                                        "attachment": {
+                                                                          "contentType": "text/html",
+                                                                          "content": "<div>Art. 362 - A Câmara Municipal deliberará sobre o veto no prazo de 30</div><div>(trinta) dias de seu recebimento e, quando em recesso, deverá ser obrigatoriamente</div><div>lido na primeira sessão ordinária após o mesmo.</div><div>§ 1o - Esgotado, sem deliberação, o prazo estabelecido, o veto será incluído</div><div>na Ordem do Dia da sessão imediata, sobrestadas as demais proposições, até sua</div><div>votação final.</div><div>§ 2o - A entrada da Câmara em recesso interromperá o prazo para</div><div>apreciação de veto anteriormente recebido.</div><div>Art. 363 - O veto será despachado:</div><div>I - à Comissão de Constituição e Justiça, se as razões versarem sobre</div><div>aspectos de constitucionalidade ou legalidade da lei decretada;</div><div>II - à Comissão de Finanças e Orçamento, se as razões versarem sobre</div><div>aspecto financeiro da lei decretada;</div><div>III - à Comissão de mérito, se as razões versarem sobre aspectos de</div><div>interesse público.</div><div>Parágrafo único - A Comissão terá o prazo improrrogável de 10 (dez) dias</div><div>para emitir parecer sobre o veto.</div><div>Art. 364 - Se as razões do veto tiverem implicação concomitante com</div><div>aspectos de constitucionalidade ou legalidade, interesse público ou de ordem</div><div>financeira, as Comissões competentes terão prazo improrrogável de 15 (quinze) dias</div><div>para emitirem parecer conjunto.</div><div>Art. 365 - Esgotado o prazo das Comissões, o veto será incluído na pauta</div><div>da primeira sessão ordinária que se realizar, com ou sem parecer.</div><div>Art. 366 - Incluído na Ordem do Dia, o veto será submetido à discussão e</div><div>votação únicas.</div><div>Parágrafo único - Na discussão de veto, cada Vereador disporá de 15</div><div>(quinze) minutos.</div><div><div>rt. 367 - No veto parcial ou total, a votação será necessariamente em</div><div>bloco, quando se tratar de matéria correlata ou idêntica.</div><div>Parágrafo único - Não ocorrendo a condição prevista no \"caput\", será</div><div>possível a votação em separado de cada uma das disposições autônomas</div><div>atingidas pelo veto parcial ou total, desde que assim o requeira 1/3 (um terço),</div></div><div><div>no mínimo, dos Vereadores, com aprovação do Plenário, não se admitindo</div><div>para tais requerimentos discussão, encaminhamento de votação ou declaração</div><div>de voto.</div><div>(alterado pela Resolução 2/07)</div><div>Art. 368 - A rejeição do veto dependerá do voto favorável da maioria</div><div>absoluta dos membros da Câmara.</div><div>(alterado pelo art. 8o da Resolução 3/95)</div><div>§ 1o - Rejeitado o veto, no todo ou em parte, o Presidente da Câmara</div><div>enviará, em 5 (cinco) dias úteis, o projeto ao Prefeito para, em 48 (quarenta e</div><div>oito) horas, promulgá-lo.</div><div>(alterado pela Resolução 2/07)</div><div>§ 2o - Na publicação de lei originária de veto parcial rejeitado, será feita</div><div>menção expressa ao diploma legal correspondente.</div><div>§ 3o - Mantido o veto, o Presidente da Câmara remeterá o projeto ao</div><div>arquivo.</div><div>Art. 369 - Se a lei não for promulgada pelo Prefeito, nos casos do parágrafo</div><div>único do artigo 360 e 1o do artigo 368, o Presidente da Câmara Municipal a</div><div>promulgará e, se este não o fizer em igual prazo, caberá aos demais membros da</div><div>Mesa, nas mesmas condições, fazê-lo, observada a precedência dos cargos.</div></div>"
+                                                                        },
+                                                                        "style": {
+                                                                          "background": "#E0E0E0"
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              },
+                                                              "attr": {
+                                                                "attachment": {
+                                                                  "contentType": "text/html",
+                                                                  "content": "<div>Art. 360 - O projeto aprovado pela Câmara será enviado, dentro de 10 (dez)<br></div><div><div>dias úteis contados da data de sua aprovação, ao Prefeito que, aquiescendo, o</div><div>sancionará e o promulgará .</div><div>Parágrafo único - Decorrido o prazo de 15 (quinze) dias úteis do</div><div>recebimento, o silêncio do Prefeito importará em sanção.</div><div>Art. 361 - Se o Prefeito julgar o projeto, no todo ou em parte,</div><div>inconstitucional ou contrário ao interesse público, o vetará total ou parcialmente no</div><div>prazo de 15 (quinze) dias úteis, contados da data do recebimento.</div><div>Parágrafo único - Sendo negada a sanção, as razões do veto serão</div><div>comunicadas, dentro de 48 (quarenta e oito) horas, ao Presidente da Câmara</div><div>Municipal e publicadas.</div></div>"
+                                                                },
+                                                                "style": {
+                                                                  "background": "#E0E0E0"
+                                                                }
+                                                              }
+                                                            }
+                                                          },
+                                                          "attr": {
+                                                            "attachment": {
+                                                              "contentType": "text/html",
+                                                              "content": "<div>SEÇÃO V</div><div>Da Redação Final</div><div>Art. 259 - A redação final, observadas as exceções regimentais, será</div><div>proposta em parecer da Comissão de mérito ou da Comissão de Constituição e</div><div>Justiça, que concluirá pelo texto definitivo do projeto, com as alterações decorrentes</div><div>das emendas aprovadas.</div><div>Parágrafo único - Quando, na elaboração da redação final, for constatada</div><div>incorreção ou impropriedade de linguagem ou outro erro existente na matéria</div><div>aprovada, poderá a Comissão corrigi-lo, desde que a correção não implique em</div><div>deturpação da vontade legislativa, devendo, nesta hipótese, mencionar</div><div>expressamente, em seu parecer, a alteração feita, com ampla justificação.</div><div>Art. 260 - Se, todavia, existir qualquer dúvida quanto à vontade legislativa,</div><div>em decorrência de incoerência notória, contradição evidente ou manifesto absurdo,</div><div>deverá a Comissão eximir-se de oferecer redação final, propondo, em seu parecer, a</div><div>reabertura da discussão e concluindo pela apresentação das necessárias emendas</div><div>corretivas, quando for o caso.</div><div>Art. 261 - O parecer propondo redação final permanecerá sobre a Mesa</div><div>durante a sessão ordinária subseqüente à publicação, para receber emendas de</div><div>redação.</div><div>§ 1o - Não havendo emendas, será considerada aprovada a redação final</div><div>proposta, sendo a matéria remetida à sanção do Prefeito ou à promulgação do</div><div>Presidente.</div><div>§ 2o - Apresentadas emendas de redação, voltará o projeto à Comissão</div><div>para parecer.</div><div>Art. 262 - O parecer previsto pelo parágrafo segundo do artigo anterior, bem</div><div>como o parecer propondo reabertura da discussão serão incluídos na Ordem do Dia,</div><div>após a publicação, para discussão e votação únicas.</div><div>§ 1o - Se o parecer for incluído em pauta de sessão extraordinária ou, em</div><div>regime de urgência, em pauta de sessão ordinária, poderá ser dispensada a</div><div>publicação, a requerimento de qualquer Vereador ou por proposta do Presidente,</div><div>com aprovação do Plenário.</div><div>§ 2o - Ocorrendo a hipótese prevista no parágrafo anterior, será obrigatória</div><div>a leitura do parecer, antes de se iniciar a discussão.</div><div>Art. 263 - Cada Vereador disporá de 5 (cinco) minutos para discutir o</div><div>parecer de redação final ou de reabertura da discussão.</div><div><div>Art. 264 - Se o parecer que concluir pela reabertura da discussão for</div><div>rejeitado, a matéria voltará à Comissão, para redigir o vencido na forma do já</div><div>deliberado pelo Plenário.</div><div>Art. 265 - Aprovado o parecer que propõe a reabertura da discussão, esta</div><div>versará exclusivamente sobre o aspecto do engano ou erro, considerando-se todos</div><div>os dispositivos não impugnados como aprovados em segunda discussão.</div><div>Parágrafo único - Cada Vereador disporá de 5 (cinco) minutos para discutir</div><div>o aspecto da matéria cuja discussão foi reaberta.</div><div>Art. 266 - Faculta-se a apresentação de emendas, desde que estritamente</div><div>relativas ao aspecto da matéria cuja discussão foi reaberta e subscritas por 1/3 (um</div><div>terço), no mínimo, dos Vereadores.</div><div>§ 1o - Encerrada a discussão, passar-se-á à votação das emendas.</div><div>§ 2o - A matéria, com emenda ou emendas aprovadas, retornará à</div><div>Comissão para elaboração de redação final, aplicando-se a seguir o disposto no</div><div>artigo 261 em seu parágrafo 1o .</div><div>Art. 267 - Só será admitida a apresentação de emendas a parecer</div><div>propondo redação final, na fase estabelecida pelo artigo 261.</div><div>Art. 268 - Aprovado o parecer com redação final do projeto, será este</div><div>enviado à sanção do Prefeito ou à promulgação do Presidente.</div></div>"
+                                                            },
+                                                            "style": {
+                                                              "background": "#E0E0E0"
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    },
+                                                    "2": {
+                                                      "title": "Não",
+                                                      "id": "32.gd4461474d235ced07",
+                                                      "ideas": {
+                                                        "1": {
+                                                          "title": "Arquivar",
+                                                          "id": "51.gd4461474d235ced07",
+                                                          "attr": {
+                                                            "style": {
+                                                              "background": "#ff0000"
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              },
+                                              "attr": {
+                                                "attachment": {
+                                                  "contentType": "text/html",
+                                                  "content": "<div>SEÇÃO IV</div><div>Da Segunda Discussão</div><div>Art. 254 - O tempo para discutir projeto em fase de segunda discussão será</div><div>de 30 (trinta) minutos para cada Vereador.</div><div>Art. 255 - Encerrada a discussão, passar-se-á à votação, que se fará em</div><div>bloco.</div><div>Parágrafo único - Os substitutivos serão votados nos termos do disposto no</div><div>artigo 251.</div><div><div>Art. 256 - Aprovado o projeto ou o substitutivo, passar-se-á à votação das</div><div>emendas, na conformidade do artigo 252 e parágrafos.</div><div>Art. 257 - Se o projeto ou o substitutivo for aprovado sem emendas, será</div><div>desde logo enviado à sanção do Prefeito ou à promulgação do Presidente.</div><div>Art. 258 - Aprovado o projeto ou o substitutivo com emendas, será o</div><div>processo despachado à Comissão de mérito, para ser redigido conforme o vencido,</div><div>dentro do prazo de 5 (cinco) dias.</div></div>"
+                                                },
+                                                "style": {
+                                                  "background": "#E0E0E0"
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "2": {
+                                          "title": "Não",
+                                          "id": "27.gd4461474d235ced07",
+                                          "ideas": {
+                                            "1": {
+                                              "title": "Arquivar",
+                                              "id": "52.gd4461474d235ced07",
+                                              "attr": {
+                                                "style": {
+                                                  "background": "#ff0000"
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "attr": {
+                                    "attachment": {
+                                      "contentType": "text/html",
+                                      "content": "<div>SEÇÃO III</div><div>Da Primeira Discussão</div><div>Art. 248 - Instruído o projeto com os pareceres de todas as Comissões a</div><div>que for despachado, e não se tratando de projeto passível de ser discutido e votado</div><div>conclusivamente pelas Comissões, será considerado em condições de pauta.</div><div>Art. 249 - Para discutir o projeto em fase de primeira discussão, cada</div><div>Vereador disporá de 30 (trinta) minutos.</div><div>Art. 250 - Encerrada a discussão, passar-se-á à votação, que se fará em</div><div>bloco.</div><div>Art. 251 - Se houver substitutivos, estes serão votados com antecedência</div><div>sobre o projeto original, observando-se o disposto no artigo 270.</div><div>Parágrafo único - Na hipótese de rejeição do(s) substitutivo(s), passar-se-á</div><div>à votação do projeto original.</div><div>Art. 252 - Aprovado o projeto inicial ou o substitutivo, passar-se-á, se for o</div><div>caso, à votação das emendas:</div><div>§ 1o - As emendas serão lidas e votadas, uma a uma, e respeitada a</div><div>preferência para as emendas de autoria de Comissão, na ordem direta de sua</div><div>apresentação.</div><div>§ 2o - Não se admite pedido de preferência para votação das emendas.</div><div>§ 3o - A requerimento de qualquer Vereador ou mediante proposta do</div><div>Presidente, com aprovação do Plenário, as emendas poderão ser votadas em bloco</div><div>ou em grupos devidamente especificados.</div><div>Art. 253 - Aprovado o projeto inicial ou o substitutivo com emendas, será o</div><div>processo despachado à Comissão de mérito para redigir conforme o vencido.</div><div>§ 1o - A Comissão terá o prazo máximo improrrogável de 5 (cinco) dias para</div><div>redigir o vencido em primeira discussão.</div><div>§ 2° - ...</div><div>(§ 2o suprimido pelo art. 2o da Resolução 03/95)</div>"
+                                    },
+                                    "style": {
+                                      "background": "#E0E0E0"
+                                    }
+                                  }
+                                }
+                              },
+                              "attr": {
+                                "attachment": {
+                                  "contentType": "text/html",
+                                  "content": "<div>Art. 171 - A Ordem do Dia será organizada pelo Presidente da Câmara,</div><div>ouvidas as lideranças, e a matéria dela constante será assim distribuída:</div><div>I - vetos;</div><div>II - contas;</div><div>III - projetos do Executivo em regime de urgência;</div><div>IV - parecer de redação final ou de reabertura de discussão;</div><div>V - segunda discussão;</div><div>VI - primeira discussão;</div><div>VII - discussão única:</div><div>a) de projetos;</div><div>b) de pareceres;</div><div>c) de recursos.</div><div>§ 1o - Dentro de cada fase de discussão, será obedecida, na elaboração da</div><div>pauta, a seguinte ordem distributiva:</div><div>I - projetos de emenda à Lei Orgânica;</div><div>II - projetos de lei;</div><div>III - projetos de resolução;</div><div>IV - projetos de decreto legislativo.</div><div>§ 2o - Quanto ao estágio de tramitação das proposições, será a seguinte a</div><div>ordem distributiva a ser obedecida na elaboração da pauta:</div><div>I - votação adiada;</div><div>II - votação;</div><div>III - continuação de discussão;</div><div>IV - discussão adiada.</div><div>§ 3o - As pautas das sessões ordinárias e extraordinárias só poderão ser</div><div><div>organizadas com proposições que contem com pareceres das Comissões</div><div>Permanentes, ressalvado o disposto no artigo 67 e no §1o do artigo 239.</div><div>§ 4o - Será publicada, mensalmente, a relação dos projetos e matérias em</div><div>condições de pauta e que poderão ser incluídos na Ordem do Dia.</div></div>"
+                                },
+                                "style": {
+                                  "background": "#E0E0E0"
+                                }
+                              }
+                            }
+                          },
+                          "attr": {
+                            "attachment": {
+                              "contentType": "text/html",
+                              "content": "<div>SEÇÃO VII</div><div>Dos Trabalhos</div><div>Art. 62 - As deliberações das Comissões serão tomadas por maioria dos</div><div>votos, observado o disposto na seção IX deste Capítulo.</div><div>Parágrafo único - Os projetos e demais proposições distribuídos às</div><div>Comissões serão examinados por relator designado ou, quando for o caso, por</div><div><div>Subcomissão, que emitirá parecer no tocante à matéria de sua competência</div><div>regimental.</div><div>Art. 63 - Para emitir parecer sobre qualquer matéria, cada Comissão terá o</div><div>prazo de 15 (quinze) dias, prorrogável por mais 8 (oito) dias pelo Presidente da</div><div>Comissão, a requerimento devidamente fundamentado.</div><div>§ 1o - O prazo previsto neste artigo começa a correr a partir do primeiro dia</div><div>útil subseqüente ao que o processo der entrada na Comissão.</div><div>§ 2o - O Presidente da Comissão, dentro do prazo máximo de 3 (três) dias</div><div>úteis, designará os respectivos relatores ou Subcomissão.</div><div>§ 3o - O relator ou a Subcomissão terá o prazo de 8 (oito) dias para</div><div>manifestar-se por escrito, a partir da data da distribuição.</div><div>§ 4o - Se houver pedido de vista, este será concedido pelo prazo máximo e</div><div>improrrogável de 2 (dois) dias, nunca, porém, com transgressão do limite dos prazos</div><div>estabelecidos no \"caput\" deste artigo.</div><div>§ 5o - Só se concederá vista do processo depois de estar o mesmo</div><div>devidamente relatado.</div><div>§ 6o - Nos projetos em que for solicitada urgência pelo Prefeito, os prazos a</div><div>que se refere o \"caput\" ficam reduzidos a 8 (oito) dias para cada Comissão, vedada</div><div>a prorrogação.</div><div>Art. 64 - Decorridos os prazos previstos no artigo anterior, deverá o</div><div>processo ser devolvido à Secretaria, com ou sem parecer, sendo que, na falta deste,</div><div>o Presidente da Comissão declarará o motivo.</div></div><div><div>Art. 65 - Dependendo o parecer de exame de qualquer outro processo</div><div>ainda não chegado à Comissão, deverá seu Presidente requisitá-lo ao Presidente da</div><div>Câmara, sendo que, neste caso, os prazos estabelecidos no artigo 63 ficarão sem</div><div>fluência, por 5 (cinco) dias úteis, no máximo, a partir da data da requisição.</div><div>Parágrafo único - A entrada, na Comissão, do processo requisitado, mesmo</div><div>antes de decorridos os 5 (cinco) dias, dará continuidade à fluência do prazo</div><div>interrompido.</div><div>Art. 66 - Dependendo o parecer de audiências públicas quando versarem</div><div>sobre as matérias contidas no artigo 41 da Lei Orgânica do Município, os prazos</div><div>estabelecidos no artigo 63 ficam sobrestados por 30 (trinta) dias úteis, para a</div><div>realização das mesmas.</div><div>Parágrafo único - Será observado o interstício mínimo de 10 (dez) dias entre</div><div>a realização das audiências públicas necessárias, podendo ser reduzido à metade</div><div>com anuência do Plenário.</div><div>Art. 67 - Decorridos os prazos de todas as Comissões a que tenham sido</div><div>enviados, poderão os processos ser incluídos na Ordem do Dia, com ou sem</div><div>parecer, pelo Presidente da Câmara, de ofício, ou a requerimento de qualquer</div><div>Vereador, independentemente do pronunciamento do Plenário.</div><div>Parágrafo único - Para os fins do disposto neste artigo, o Presidente da</div><div>Câmara, se necessário, determinará a pronta tramitação do processo.</div><div>Art. 68 - As Comissões Permanentes deverão solicitar do Executivo, por</div><div>intermédio do Presidente da Câmara, todas as informações julgadas necessárias.</div></div><div><div>§ 1o - O pedido de informações dirigido ao Executivo suspende os prazos</div><div>previstos no artigo 63, devendo o ofício ser encaminhado, no máximo, em 2 (dois)</div></div><div><div>dias úteis.</div><div>§ 2o - A suspensão mencionada no parágrafo anterior cessará ao cabo de</div><div>30 (trinta) dias corridos, contados da data em que for expedido o respectivo ofício,</div><div>se o Executivo, dentro desse prazo, não tiver prestado as informações requisitadas.</div><div>§ 3o - A remessa das informações, antes de decorridos os 30 (trinta) dias,</div><div>dará continuidade à fluência do prazo suspenso.</div><div>§ 4o - Além das informações prestadas, somente serão incluídos no</div><div>processo sob exame da Comissão Permanente o parecer desta emanado, os votos</div><div>em separado e as transcrições das audiências públicas realizadas.</div><div>Art. 69 - O recesso da Câmara sobresta todos os prazos consignados na</div><div>presente Seção.</div><div>Art. 70 - Quando qualquer processo for distribuído a mais de uma</div><div>Comissão, cada qual dará seu parecer separadamente, ouvida, em primeiro lugar, a</div><div>Comissão de Constituição e Justiça e, em último, a de Finanças e Orçamento,</div><div>quando for o caso.</div><div>Art. 71 - Mediante comum acordo de seus Presidentes, em caso de</div><div>urgência justificada, poderão as Comissões Permanentes realizar reuniões</div><div>conjuntas para exame de proposições ou qualquer matéria a elas submetidas,</div><div>facultando-se, neste caso, a apresentação de parecer conjunto.</div><div>Parágrafo único - Ocorrendo a hipótese prevista neste artigo, a presidência</div><div>dos trabalhos caberá ao mais idoso dos Presidentes das Comissões reunidas.</div></div><div><div>Art. 72 - A manifestação de uma Comissão sobre determinada matéria não</div><div>exclui a possibilidade de nova manifestação, mesmo em proposição de sua autoria,</div><div>se o Plenário assim deliberar.</div><div>Art. 73 - As disposições e prazos estabelecidos na presente Seção não se</div><div>aplicam às proposituras de iniciativa dos cidadãos, definida no Título IX deste</div><div>Regimento.</div></div>"
+                            },
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Não",
+                      "id": "12.gd4461474d235ced07",
+                      "ideas": {
+                        "1": {
+                          "title": "Recurso",
+                          "id": "13.gd4461474d235ced07",
+                          "ideas": {
+                            "1": {
+                              "title": "Sim",
+                              "id": "14.gd4461474d235ced07",
+                              "ideas": {},
+                              "attr": {
+                                "style": {
+                                  "background": "#E0E0E0"
+                                }
+                              }
+                            },
+                            "2": {
+                              "title": "Não",
+                              "id": "16.gd4461474d235ced07",
+                              "ideas": {
+                                "1": {
+                                  "title": "Arquivar",
+                                  "id": "48.gd4461474d235ced07",
+                                  "attr": {
+                                    "style": {
+                                      "background": "#ff0000"
+                                    },
+                                    "attachment": {
+                                      "contentType": "text/html",
+                                      "content": "<div>Art. 275 - No início de cada legislatura, serão arquivados os processos</div><div>relativos a proposições que, até a data de encerramento da legislatura anterior, não</div><div><div>tenham sido aprovadas em, pelo menos, uma discussão.</div><div>§ 1o - O disposto neste artigo não se aplica às proposições de iniciativa do</div><div>Executivo.</div><div>§ 2o - A proposição arquivada nos termos do presente artigo poderá voltar à</div><div>tramitação regimental, desde que assim o requeira o Líder da Bancada.</div><div>§ 3o - Em proposição de autoria da Mesa ou das Comissões Permanentes,</div><div>a volta à tramitação se dará por requerimento subscrito pela maioria de seus</div><div>respectivos membros.</div><div>§ 4o - Não poderão ser desarquivadas as proposições inquinadas de</div><div>inconstitucionalidade ou ilegalidade, ou as que tenham parecer contrário das</div><div>Comissões de mérito.</div></div>"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<div><div><div>CAPÍTULO IV</div><div>DO PRESIDENTE</div></div><div><div>Art. 17 - São atribuições do Presidente, além das que estão expressas</div><div>neste Regimento ou decorram da natureza de suas funções e prerrogativas:</div></div><div>II - Quanto às proposições:<br></div></div><div>b) distribuir proposições, processos e documentos às Comissões;<br></div>"
+                },
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          },
+          "attr": {
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<div>Art. 239 - Os projetos apresentados até o início do Prolongamento do&nbsp;<span style=\"font-size: 14px;\">Expediente serão lidos, enviados à publicação na Imprensa Oficial e despachados&nbsp;</span><span style=\"font-size: 14px;\">de plano às Comissões Permanentes.</span></div>"
+            },
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      },
+      "attr": {
+        "attachment": {
+          "contentType": "text/html",
+          "content": "<div><font size=\"3\" face=\"serif\">Art. 17 - São&nbsp;<b>atribuições do Presidente</b>, além das que estão expressas neste Regimento ou decorram da natureza de suas funções e prerrogativas<br></font></div><div><div><div dir=\"ltr\" data-font-name=\"Helvetica\" data-canvas-width=\"13.440000000000001\" style=\"left: 155.84px; top: 534.88px;\"><font size=\"3\" face=\"serif\">II - Quanto às proposições:</font></div><div dir=\"ltr\" data-font-name=\"Helvetica\" data-canvas-width=\"291.2\" style=\"left: 155.84px; top: 553.28px;\"><font size=\"3\" face=\"serif\">a) receber as proposições apresentadas;</font></div><div dir=\"ltr\" data-font-name=\"Helvetica\" data-canvas-width=\"132.768\" style=\"left: 155.84px; top: 571.68px;\"><font size=\"3\" face=\"serif\">b) distribuir proposições, processos e documentos às Comissões;</font></div><div dir=\"ltr\" data-font-name=\"Helvetica\" data-canvas-width=\"503.55199999999996\" style=\"left: 155.84px; top: 590.08px;\"><font size=\"3\" face=\"serif\">c) determinar, a requerimento do autor, a retirada de proposições, nos termos regimentais;</font></div><div dir=\"ltr\" data-font-name=\"Helvetica\" data-canvas-width=\"537.8240000000001\" style=\"left: 155.84px; top: 626.88px;\"><font size=\"3\" face=\"serif\">d) declarar prejudicada a proposição, em face da rejeição ou aprovação de outra com o mesmo objetivo;</font></div><div dir=\"ltr\" data-font-name=\"Helvetica\" data-canvas-width=\"114.97600000000001\" style=\"left: 155.84px; top: 663.68px;\"><font size=\"3\" face=\"serif\">e) devolver ao autor, quando não atendidas as formalidades regimentais, proposição em que se pretenda o reexame de matéria anteriormente rejeitada ou vetada, e cujo veto tenha sido mantido;</font></div><div dir=\"ltr\" data-font-name=\"Helvetica\" data-canvas-width=\"546.752\" style=\"left: 155.84px; top: 718.88px;\"><font size=\"3\" face=\"serif\">f) recusar substitutivos ou emendas que não sejam pertinentes à proposição inicial;</font></div><div dir=\"ltr\" data-font-name=\"Helvetica\" data-canvas-width=\"522.0479999999999\" style=\"left: 155.84px; top: 755.52px;\"><font size=\"3\" face=\"serif\">g) determinar o desarquivamento de proposição, nos termos regimentais;</font></div><div dir=\"ltr\" data-font-name=\"Helvetica\" data-canvas-width=\"504.25600000000014\" style=\"left: 155.84px; top: 773.92px;\"><font size=\"3\" face=\"serif\">h) retirar da pauta da Ordem do Dia proposição em desacordo com as exigências regimentais;</font></div><div dir=\"ltr\" data-font-name=\"Helvetica\" data-canvas-width=\"541.1199999999999\" style=\"left: 155.84px; top: 810.72px;\"><font size=\"3\" face=\"serif\">i) despachar requerimentos verbais ou escritos, processos e demais papéis submetidos à sua apreciação;</font></div><div dir=\"ltr\" data-font-name=\"Helvetica\" data-canvas-width=\"361.536\" style=\"left: 155.84px; top: 847.52px;\"><font size=\"3\" face=\"serif\">j) observar e fazer observar os prazos regimentais;</font></div><div dir=\"ltr\" data-font-name=\"Helvetica\" data-canvas-width=\"509.43999999999994\" style=\"left: 155.84px; top: 865.92px;\"><font size=\"3\" face=\"serif\">l) solicitar informações e colaborações técnicas para estudo de matéria sujeita à apreciação da Câmara, quando requerido pelas Comissões;</font></div><div dir=\"ltr\" data-font-name=\"Helvetica\" data-canvas-width=\"358.912\" style=\"left: 155.84px; top: 902.72px;\"><font size=\"3\" face=\"serif\">m) devolver proposição que contenha expressões anti-regimentais;</font></div><div dir=\"ltr\" data-font-name=\"Helvetica\" data-canvas-width=\"529.7280000000001\" style=\"left: 155.84px; top: 921.12px;\"><font size=\"3\" face=\"serif\">n) determinar a entrega obrigatória de cópias de projetos de lei a todos os Vereadores em exercício&nbsp;</font></div></div></div><div><font face=\"serif\" size=\"3\"><br></font></div><div><font face=\"serif\" size=\"3\">SEÇÃO II&nbsp;</font></div><div><font face=\"serif\" size=\"3\">Da Tramitação dos Projetos&nbsp;</font></div><div><font face=\"serif\" size=\"3\">Art. 239 - Os projetos apresentados até &nbsp;o início do Prolongamento do&nbsp;Expediente serão lidos, enviados à publicação na Imprensa Oficial e despachados&nbsp;de plano às Comissões Permanentes.&nbsp;</font></div><div><font face=\"serif\" size=\"3\">§ 1º - Quando o projeto apresentado for de autoria de todas as Comissões&nbsp;competentes para opinar sobre a matéria nele consubstanciada, será considerado&nbsp;em condições de figurar na Ordem do Dia.&nbsp;</font></div><div><font face=\"serif\" size=\"3\">§ 2º - As Comissões, em seus pareceres, poderão oferecer substitutivos ou&nbsp;emendas, que não serão considerados quando constantes de voto em separado ou&nbsp;voto vencido.&nbsp;</font></div><div><font face=\"serif\" size=\"3\">§ 3º - No transcorrer das discussões, será admitida a apresentação de&nbsp;substitutivos e emendas, desde que subscritos, no mínimo, por 1/3 (um terço) dos&nbsp;membros da Câmara.&nbsp;</font></div><div><font face=\"serif\" size=\"3\"><br></font></div><div><font face=\"serif\" size=\"3\">Art. 240 - Os projetos devem ser obrigatoriamente publicados na Imprensa&nbsp;Oficial antes de serem incluídos na Ordem do Dia de sessão ordinária ou&nbsp;extraordinária.&nbsp;</font></div><div><font face=\"serif\" size=\"3\">Parágrafo único - Aplica-se o disposto no presente artigo também aos&nbsp;projetos incluídos, em regime de urgência, na pauta de &nbsp;sessão ordinária.&nbsp;</font></div><div><font face=\"serif\" size=\"3\"><br></font></div><div><font face=\"serif\" size=\"3\">Art. 241 - Todos os projetos e respectivos pareceres serão impressos em&nbsp;avulsos e entregues aos Vereadores no início da sessão em cuja Ordem do Dia&nbsp;tenham sido incluídos.</font></div><div><font face=\"serif\" size=\"3\"><br></font></div><div><div dir=\"ltr\" style=\"font-size: 16px; font-family: sans-serif; left: 156px; top: 902.72px; transform: scale(1.0493, 1); transform-origin: 0% 0% 0px;\" data-font-name=\"Helvetica\" data-canvas-width=\"54.144000000000005\"><br></div></div>"
+        },
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": "14.gd4461474d235ced07",
+      "ideaIdTo": "18.gd4461474d235ced07",
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ],
+  "attr": {
+    "attachment": {
+      "contentType": "text/html",
+      "content": "REGIMENTO INTERNO:&nbsp;<a class=\"src-url\" target=\"_blank\" href=\"http://www.camara.sp.gov.br/images/stories/legislacao/regimento-interno-2010-03-18.pdf\" style=\"color: rgb(85, 102, 221); display: inline-block; max-width: 500px; overflow: hidden; padding-bottom: 1px; padding-top: 4px; text-overflow: ellipsis; white-space: nowrap; font-family: Ubuntu, Arial, sans-serif; font-size: 12px; line-height: normal;\">http://www.camara.sp.gov.br/images/stories/legislacao/regimento-interno-2010-03-18.pd</a><a class=\"src-url\" target=\"_blank\" href=\"http://www.camara.sp.gov.br/images/stories/legislacao/regimento-interno-2010-03-18.pdf\" style=\"color: rgb(85, 102, 221); display: inline-block; max-width: 500px; overflow: hidden; padding-bottom: 1px; padding-top: 4px; text-overflow: ellipsis; white-space: nowrap; font-family: Ubuntu, Arial, sans-serif; font-size: 12px; line-height: normal;\">f</a><div><br></div><div><div>Art. 211 - As proposições consistirão em:</div><div>I - indicações;</div><div>II - requerimentos;</div><div>III - moções;</div><div>IV - projetos de emendas à Lei Orgânica;</div><div>V - projetos de lei;</div><div>VI - projetos de decreto legislativo;</div><div>VII - projetos de resolução;</div><div>VIII - substitutivos e emendas.</div><div>Parágrafo único - As proposições deverão ser redigidas em termos claros e&nbsp;<span style=\"font-size: 14px;\">sintéticos e, quando sujeitas à leitura, exceto as emendas, deverão conter ementa&nbsp;</span><span style=\"font-size: 14px;\">de seu objetivo.</span></div></div><div><br></div><div><div>Art. 234 - Projeto de lei é a proposição que tem por fim regular toda matéria&nbsp;<span style=\"font-size: 14px;\">legislativa de competência da Câmara e sujeita à sanção do Prefeito.&nbsp;</span></div><div>&nbsp;§ 1º - A iniciativa dos projetos de lei cabe:&nbsp;</div><div>&nbsp;I - à Mesa da Câmara;&nbsp;</div><div>&nbsp;II - ao Prefeito;&nbsp;</div><div>&nbsp;III - ao Vereador;&nbsp;</div><div>&nbsp;IV - às Comissões Permanentes;&nbsp;</div><div>&nbsp;V - aos cidadãos.&nbsp;</div><div>&nbsp;§ 2º - A iniciativa popular dar-se-á através de projetos de lei de interesse&nbsp;<span style=\"font-size: 14px;\">específico do Município, da cidade ou de bairros, através de manifestação de, pelo&nbsp;</span><span style=\"font-size: 14px;\">menos, 5% (cinco por cento) do eleitorado.&nbsp;</span></div><div><br></div><div>Art. 235 - Será privativa do Prefeito &nbsp;a iniciativa ds projetos de lei&nbsp;<span style=\"font-size: 14px;\">mencionados no parágrafo 2º do artigo 37 e &nbsp;incisos I, II e III do artigo 137 da Lei&nbsp;</span><span style=\"font-size: 14px;\">Orgânica do Município.&nbsp;</span></div><div>Parágrafo único - Ressalvado o disposto na Constituição da República, aos&nbsp;<span style=\"font-size: 14px;\">projetos de iniciativa do Prefeito não serão admitidas emendas que aumentem a&nbsp;</span><span style=\"font-size: 14px;\">despesa prevista nem as que alterem a criação de cargos.&nbsp;</span></div></div><div><span style=\"font-size: 14px;\"><br></span></div><div><span style=\"font-size: 14px;\">[...]</span></div><div><span style=\"font-size: 14px;\">Art. 238 - São requisitos dos projetos:&nbsp;</span><br></div><div><span style=\"font-size: 14px;\"><div>&nbsp;I - ementa de seu objetivo;&nbsp;</div><div>&nbsp;II - conter, tão somente, a enunciação da vontade legislativa;&nbsp;</div><div>&nbsp;III - divisão em artigos numerados, claros e concisos;&nbsp;</div><div>&nbsp;IV - menção da revogação das disposições em contrário, quando for o caso;&nbsp;</div><div>&nbsp;V - assinatura do autor;&nbsp;</div><div>&nbsp;VI - justificação, com a exposição circunstanciada dos motivos de mérito&nbsp;<span style=\"font-size: 14px;\">que fundamentam a adoção da medida proposta.</span></div></span></div>"
+    },
+    "style": {
+      "background": "#22AAE0"
+    }
+  }
+}
